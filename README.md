@@ -3,5 +3,5 @@ A simple app that uses the OMDb API to search and compare movies. If you're not 
 
 
 
-Yellow = worse than
+Yellow = worse than <br/>
 Green = better than 
